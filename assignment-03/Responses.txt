@@ -1,0 +1,8 @@
+what is an advantage to using a text editor? 
+
+It is faster to edit
+
+Is there an advantage of using a relative vs an absolute URL?
+
+It can contain more information 
+
