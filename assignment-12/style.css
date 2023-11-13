@@ -1,0 +1,36 @@
+.box {
+    width: 50% ;
+    min-width: 200px ;
+    max-width: 800px; ;
+    padding: 1em ;
+    background-color: teal;
+    float: right;
+    overflow: hidden;
+    border-style:double;
+    border-width: 20px; 
+    border-color: blue;
+    margin: 1%;
+    display: block;
+
+  }
+
+
+
+  h1 {
+    border: 20px;
+    border-style: dotted;
+    border-color: blue;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  body {
+    font-size: 20pt;
+    background-color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+  }
+  img {
+    float: left;
+    padding: 20px ;
+  }
+  
