@@ -1,0 +1,49 @@
+h1
+{ border-style:solid;
+    border-width: 7px;
+    border-color: darkred;
+    padding: 12px;
+    text-align: center;
+    font-family: 'CoffeetinIntials-YXJ2' ;
+    font-size: 40pt;
+    background-color: yellow;
+}
+
+img {
+ float: right;
+}
+
+body 
+{
+    background-color: lemonchiffon;
+    font-size: 15pt;
+    font-family: monospace;
+
+}
+
+p 
+{
+ color: darkorange;  
+
+}
+
+.button {
+    background-color: yellow;
+    border: 4pt;
+    border-style: groove;
+    border-color: brown;
+    font-family: 'CoffeetinIntials-YXJ2';
+    font-size: 20pt;
+}
+
+.button:hover {
+    background-color: white ;
+    font-family: monospace;
+    letter-spacing: 7pt;
+}
+
+@font-face {
+    font-family: 'CoffeetinIntials-YXJ2' ;
+    src: url(coffee-tin-font/CoffeetinInitials-YXJ2.ttf);
+    font-display: swap ;
+}
